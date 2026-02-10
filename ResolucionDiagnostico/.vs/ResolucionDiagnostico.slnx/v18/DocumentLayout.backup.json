@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|c:\\users\\estudiante\\source\\repos\\resoluciondiagnostico\\resoluciondiagnostico\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|solutionrelative:resoluciondiagnostico\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|c:\\users\\estudiante\\source\\repos\\resoluciondiagnostico\\resoluciondiagnostico\\icalculableliquidopagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|solutionrelative:resoluciondiagnostico\\icalculableliquidopagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|c:\\users\\estudiante\\source\\repos\\resoluciondiagnostico\\resoluciondiagnostico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E352F494-F03F-4F3F-98A9-CF1C69EBA06C}|ResolucionDiagnostico\\ResolucionDiagnostico.csproj|solutionrelative:resoluciondiagnostico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7248644E-F7DB-45E5-A88C-27EC68BAC3DE}|Proyecto2\\Proyecto2.csproj|c:\\users\\estudiante\\source\\repos\\resoluciondiagnostico\\proyecto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7248644E-F7DB-45E5-A88C-27EC68BAC3DE}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculableLiquidoPagable.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "RelativeDocumentMoniker": "ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "RelativeToolTip": "ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T19:39:19.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\Proyecto2\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\Proyecto2\\Program.cs",
+              "RelativeToolTip": "Proyecto2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:50:38.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\Empleado.cs",
+              "RelativeDocumentMoniker": "ResolucionDiagnostico\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\Empleado.cs",
+              "RelativeToolTip": "ResolucionDiagnostico\\Empleado.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:49:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\Program.cs",
+              "RelativeDocumentMoniker": "ResolucionDiagnostico\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\ResolucionDiagnostico\\ResolucionDiagnostico\\Program.cs",
+              "RelativeToolTip": "ResolucionDiagnostico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:45:59.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
