@@ -1,0 +1,36 @@
+﻿@page
+@model CRUD.Pages.OficinaModel
+@{
+}
+
+<h1>Oficinas Sucursales</h1>
+
+<div>
+    <a asp-page="OficinaSucursalCreate" class ="btn btn-primary">Nueva Oficina</a>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre de la Oficina</th>
+            <th>Direccion</th>
+            <th>Fecha de Registro</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (System.Data.DataRow row in Model.OficinaDataTable.Rows)
+        {
+            <tr>
+                <td>@row["nombre"]</td>
+                <td>@row["direccion"]</td>
+                <td>@row["fechaRegistro"]</td>
+                <td>
+                    <a asp-route-id="@row["id"]" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-route-id="@row["id"]" class="btn btn-warning btn-sm">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

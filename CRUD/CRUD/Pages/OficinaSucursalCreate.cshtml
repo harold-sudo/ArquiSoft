@@ -1,0 +1,22 @@
+﻿@page
+@model CRUD.Pages.OficinaSucursalCreateModel
+@{
+}
+
+<h2>Nueva Oficina</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Nombre:</label>
+        <input asp-for="@Model.Nombre" class="form-control" required/>
+    </div>
+
+    <div class="form-group">
+        <label>Dirección:</label>
+        <input asp-for="@Model.Direccion" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn-primary mt-2">Guardar</button>
+    <a asp-page="Oficina" class="btn btn-warning mt-2">Volver</a>
+    <button></button>
+</form>
